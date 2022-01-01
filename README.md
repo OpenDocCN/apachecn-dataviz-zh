@@ -8,6 +8,12 @@
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
+## 目录
+
++   [数据可视化的基础知识](docs/dataviz-zh/SUMMARY.md)
++   [Matplotlib 3.0 秘籍](docs/matplotlib-30-cookbook/SUMMARY.md)
++   [Matplotlib 绘图秘籍](docs/matplotlib-plot-cookbook/SUMMARY.md)
+
 ## 贡献指南
 
 本项目需要校对，欢迎大家提交 Pull Request。
