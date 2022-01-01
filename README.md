@@ -13,6 +13,11 @@
 +   [数据可视化的基础知识](docs/dataviz-zh/SUMMARY.md)
 +   [Matplotlib 3.0 秘籍](docs/matplotlib-30-cookbook/SUMMARY.md)
 +   [Matplotlib 绘图秘籍](docs/matplotlib-plot-cookbook/SUMMARY.md)
++   [Python 数据可视化指南](docs/data-vis-py/SUMMARY.md)
++   [Bokeh 数据可视化实用指南](docs/handson-data-vis-bokeh/SUMMARY.md)
++   [Python 数据可视化学习手册](docs/learn-py-data-vis/SUMMARY.md)
++   [精通 Python 数据可视化](docs/master-py-data-vis/SUMMARY.md)
++   [Python 数据可视化秘籍](docs/py-data-vis-cb/SUMMARY.md)
 
 ## 贡献指南
 
