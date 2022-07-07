@@ -7,6 +7,8 @@
 > 校验：[飞龙](https://github.com/wizardforcel)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+>
+> 阶段：精细校对（4）
 > 
 > 人最大的痛苦就是说一些自己都不相信的话。——燕京学堂鹿会
 
